@@ -25,9 +25,9 @@ A simple and fast QR code detection library designed for ESP32-S3 based camera b
 
 ---
 
-##Credit
+## Credits
 - MahbubQR — ESP32-S3 Camera QR Code Scanner
-- Based on the excellent quirc library by Daniel Beer.
+  Based on the excellent quirc library by Daniel Beer.
 
 ## Example
 
